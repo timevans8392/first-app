@@ -1,0 +1,20 @@
+{
+  "name": "first-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gatsby": "^2.24.76",
+    "netlify-cli": "^2.65.6",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+}
