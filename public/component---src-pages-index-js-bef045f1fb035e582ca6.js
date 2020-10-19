@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{RXBc:function(e,n,t){"use strict";t.r(n);t("q1tI");n.default=function(){return React.createElement("p",null," TODO: build a website ")}}}]);
+//# sourceMappingURL=component---src-pages-index-js-bef045f1fb035e582ca6.js.map

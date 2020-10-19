@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/index.js"],"names":["Index"],"mappings":"2FAAA,iBAMeA","file":"component---src-pages-index-js-2a8242c545d62baa4e71.js","sourcesContent":["import React from 'react';\n\nconst index = () => {\n    return <p> TODO: build a </p>;\n};\n\nexport default Index;"],"sourceRoot":""}
